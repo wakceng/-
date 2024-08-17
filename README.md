@@ -33,3 +33,8 @@
 
 #### 6、代码文件
 https://github.com/CykenJay/AirationGo2
+
+#### 7、上下楼梯
+通过百度网盘分享的文件：上下楼梯
+链接：https://pan.baidu.com/s/15_WeK1ER-Xend2Vg5sFWCg?pwd=o76n 提取码：o76n 
+
